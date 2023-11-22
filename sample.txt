@@ -1,2 +1,3 @@
 Adding a feature
 fixing first bug
+Adding another feature 
