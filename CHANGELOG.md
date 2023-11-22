@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/seethatgo/github-action-demo/compare/v1.0.0...v1.0.1) (2023-11-22)
+
+
+### Bug Fixes
+
+* production bug fix ([33f7a0e](https://github.com/seethatgo/github-action-demo/commit/33f7a0eff612defd0d50c46778bfecfb78c9e496))
+
 ## 1.0.0 (2023-11-22)
 
 
