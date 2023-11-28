@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/seethatgo/github-action-demo/compare/v1.0.1...v1.1.0) (2023-11-28)
+
+
+### Features
+
+* changing workflow ([df64dc1](https://github.com/seethatgo/github-action-demo/commit/df64dc1ee36a188510203ce541a95c76c13f9c9c))
+
+
+### Bug Fixes
+
+* fixed bug ([3e40846](https://github.com/seethatgo/github-action-demo/commit/3e4084626055a5fca9b41d02410255103250358d))
+
 ## [1.0.1](https://github.com/seethatgo/github-action-demo/compare/v1.0.0...v1.0.1) (2023-11-22)
 
 
